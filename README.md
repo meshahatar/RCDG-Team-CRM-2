@@ -38,7 +38,7 @@ meshahatar
 
 **Благодарности:**
 
-Roman
+Roman,
 Regul
 
 ![CRM2](http://3.bp.blogspot.com/-okkZQaDadz0/US-5I5YKzsI/AAAAAAAAAQ4/eMUWvr5pgJw/s1600/load_background_16000_OB.jpg)
@@ -75,5 +75,5 @@ meshahatar
 
 **Thanks to:**
 
-Roman
+Roman,
 Regul
