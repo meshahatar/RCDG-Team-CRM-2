@@ -67,7 +67,12 @@ We are ready to work with everyone in the framework of the license [CreativeComm
 
 **Language support:** 
 
-Russian, English, German, Czech, Spanish, Hungarian
+Russian, 
+English, 
+German, 
+Czech, 
+Spanish, 
+Hungarian
 
 **Developers:**
 
